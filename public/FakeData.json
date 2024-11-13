@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Modern Family Home",
+      "segment_name": "Residential",
+      "description": "Beautifully designed family home with contemporary features.",
+      "price": "$750,000",
+      "status": "sale",
+      "area": "2,500 sq ft",
+      "location": "123 Main Street, Cityville, CA",
+      "facilities": ["3 bedrooms", "2 bathrooms", "spacious living room", "modern kitchen"],
+      "image": "https://i.ibb.co/6tCMnbN/fp-10.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Luxury Villa with Pool",
+      "segment_name": "Residential",
+      "description": "Luxurious villa featuring a private swimming pool and scenic views.",
+      "price": "$1,200,000",
+      "status": "rant",
+      "area": "4,000 sq ft",
+      "location": "456 Oak Avenue, Hilltop, NY",
+      "facilities": ["5 bedrooms", "4 bathrooms", "private pool", "garden"],
+      "image": "https://i.ibb.co/bdNnmKd/fp-12.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Urban Apartment",
+      "segment_name": "Residential",
+      "description": "Charming apartment in a vibrant urban neighborhood.",
+      "price": "$2,500/month",
+      "status": "rent",
+      "area": "1,200 sq ft",
+      "location": "789 Elm Street, Metro City, TX",
+      "facilities": ["1 bedroom", "1 bathroom", "modern kitchen", "balcony"],
+      "image": "https://i.ibb.co/G9sLq44/fp-11.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Cozy Townhouse",
+      "segment_name": "Residential",
+      "description": "Comfortable townhouse with a backyard, ideal for families.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "2,200 sq ft",
+      "location": "321 Pine Lane, Suburbia, FL",
+      "facilities": ["3 bedrooms", "2.5 bathrooms", "backyard", "garage"],
+      "image": "https://i.ibb.co/6tCMnbN/fp-10.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Beachfront Condo",
+      "segment_name": "Residential",
+      "description": "Modern condo with stunning ocean views and beach access.",
+      "price": "$950,000",
+      "status": "sale",
+      "area": "1,800 sq ft",
+      "location": "789 Ocean Drive, Beach City, CA",
+      "facilities": ["2 bedrooms", "2 bathrooms", "balcony", "beach access"],
+      "image": "https://i.ibb.co/16WxCvH/fp-3.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Rustic Cabin Retreat",
+      "segment_name": "Residential",
+      "description": "Cozy cabin surrounded by nature, perfect for a weekend getaway.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "1,000 sq ft",
+      "location": "123 Forest Lane, Woodland Retreat, OR",
+      "facilities": ["1 bedroom", "1 bathroom", "fireplace", "deck"],
+      "image": "https://i.ibb.co/s6QNr6N/fp-2.jpg"
+    },
+    {
+      "id": 7,
+      "estate_title": "Spacious Family Home",
+      "segment_name": "Residential",
+      "description": "Large family home with multiple bedrooms and a backyard.",
+      "price": "$850,000",
+      "status": "sale",
+      "area": "3,000 sq ft",
+      "location": "456 Sunny Street, Suburban Town, AZ",
+      "facilities": ["4 bedrooms", "3.5 bathrooms", "large backyard", "garage"],
+      "image": "https://i.ibb.co/54vFnkQ/fp-1.jpg"
+    },
+    {
+      "id": 8,
+      "estate_title": "Modern City Loft",
+      "segment_name": "Residential",
+      "description": "Sleek loft apartment in the heart of the city with urban views.",
+      "price": "$600,000",
+      "status": "rant",
+      "area": "1,500 sq ft",
+      "location": "789 Downtown Boulevard, City Center, NY",
+      "facilities": ["1 bedroom", "1.5 bathrooms", "open layout", "city views"],
+      "image": "https://i.ibb.co/kxWDrgs/b-12.jpg"
+    },
+    {
+      "id": 9,
+      "estate_title": "Country Estate",
+      "segment_name": "Residential",
+      "description": "Sprawling country estate with acres of land and picturesque views.",
+      "price": "$2,000,000",
+      "status": "sale",
+      "area": "5,000 sq ft",
+      "location": "321 Country Road, Rural Valley, WA",
+      "facilities": ["5 bedrooms", "4 bathrooms", "pool", "guest house"],
+      "image": "https://i.ibb.co/G0cKJxF/b-1.jpg"
+    }
+  ]
